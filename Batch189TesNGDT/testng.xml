@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="techproed.utilities.Listeners"/>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/mstf-/Desktop/Yeni klas�r (3)/Batch189TesNGDT/src/test/java/techproed/test/day26_listeners/">
+        <classes>
+            <class name="techproed.test.day26_listeners.C02_ListenersTest">
+                <methods>
+                    <include name="test01"/>
+                    <include name="test02"/>
+                    <include name="test03"/>
+                    <include name="test04"/>
+                </methods>
+            </class>
+            <class name="techproed.test.day26_listeners.C03_ListenersTest">
+                <methods>
+                    <include name="test01"/>
+                    <include name="test02"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>

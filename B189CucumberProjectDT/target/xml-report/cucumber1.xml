@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="10.232" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="US001 Amazon Home Page Test" name="TC01 Arama kutusunda iphone aratilir" time="4.329">
+<system-out><![CDATA[
+Given kullanici amazon sayfasina gider......................................passed
+When arama kutusunda iphone aratir..........................................passed
+And sayfayi kapatir.........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="US001 Amazon Home Page Test" name="TC02 Arama kutusunda samsung aratilir" time="5.761">
+<system-out><![CDATA[
+Given kullanici amazon sayfasina gider......................................passed
+When arama kutusunda samsung aratir.........................................passed
+And sayfayi kapatir.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

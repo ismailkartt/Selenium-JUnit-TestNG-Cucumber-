@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="3.223" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="US002 BlueRentalCar Test" name="TC01 Verilen email ve password ile login olunur" time="3.087">
+<system-out><![CDATA[
+Given kullanici blueRentalCar sayfasina gider...............................passed
+When login butonuna tiklar..................................................passed
+And email ve password bilgileri ile login olur..............................passed
+And sayfayi kapatir.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

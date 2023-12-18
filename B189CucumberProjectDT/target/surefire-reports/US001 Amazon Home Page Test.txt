@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: US001 Amazon Home Page Test
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.168 s - in US001 Amazon Home Page Test

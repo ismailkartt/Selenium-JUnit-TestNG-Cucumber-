@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="13.066" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="US014 Robot class reusable method kullanimi" name="TC01 verilen adrese dosya yüklemer" time="12.964">
+<system-out><![CDATA[
+Given kullanici "https://www.ilovepdf.com/compress_pdf" sayfasina gider.....passed
+When yuklenmek istenen dosyayi yukler.......................................passed
+Then dosyanin basariyla yuklendigini test eder..............................passed
+And sayfayi kapatir.........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

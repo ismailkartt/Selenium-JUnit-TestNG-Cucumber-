@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Batch189">
+    <test name="Smoke Test">
+        <classes>
+            <class name="techproed.test.day19_annotations.C01_Notasyonlar"></class>
+            <class name="techproed.test.day20_annotations_softassert.C02_Priority"></class>
+            <class name="techproed.test.day22_POM.C01_PropertiesTest"></class>
+        </classes>
+    </test>
+</suite>
+
+        <!--ctrl + / yaparak yorum satiri ekleyebilirisinz-->
